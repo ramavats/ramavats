@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramavats" alt="ramavats" /></a> </p>
 
-<p align="left"> <a href="https://x.com/rama_vats" target="blank"><img src="https://img.shields.io/twitter/follow/cyb0rgrv?logo=twitter&style=for-the-badge" alt="rama_vats" /></a> </p>
+<p align="left"> <a href="https://x.com/rama_vats" target="blank"><img src="https://img.shields.io/twitter/follow/rama_vats?logo=twitter&style=for-the-badge" alt="rama_vats" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/rama_vats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rama_vats" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rama-vats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rama-vats" height="30" width="40" /></a>
-<a href="https://instagram.com/r4rama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r4rama" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rama-jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rama-jha" height="30" width="40" /></a>
+<a href="https://instagram.com/username.tsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r4rama" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
